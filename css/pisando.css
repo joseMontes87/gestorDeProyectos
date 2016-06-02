@@ -1,0 +1,9 @@
+.buttonLink{
+    border:none; /*quita el borde del boton*/
+    background: rgba(29, 49, 42, 0.0); /* le vuelve transparente al color de fondo*/
+    color:#0080FF; /*color azul jeje */
+}
+
+table tr.filterColumns td { 
+	padding:2px; 
+}
